@@ -1,2 +1,2 @@
 # Test
-My first repository maintained by myself.
+The first test for github
